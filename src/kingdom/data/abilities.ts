@@ -3,6 +3,7 @@ export const allAbilities = [
     'economy',
     'loyalty',
     'stability',
+    'might'
 ] as const;
 
 export type Ability = typeof allAbilities[number];

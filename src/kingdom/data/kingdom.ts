@@ -480,6 +480,7 @@ export function getDefaultKingdomData(): Kingdom {
             economy: 10,
             loyalty: 10,
             stability: 10,
+            might: 10
         },
         ruin: {
             corruption: {
